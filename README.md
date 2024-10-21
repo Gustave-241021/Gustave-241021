@@ -1,4 +1,5 @@
 ## Hi there 🐊
+https://github-stats.ubrong.com/api?username=Gustave-241021&show_icons=true&theme=tokyonight
 
 <!--
 **Gustave-241021/Gustave-241021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
