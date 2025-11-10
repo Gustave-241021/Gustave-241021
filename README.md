@@ -1,4 +1,4 @@
-- 🐊 Hi, I’m Gustave241021，a sophomore in China.
+- 🐊 Hi, I’m Gustave-241021，a sophomore in China.
 
 
 # 📊 GitHub Stats:
