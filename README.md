@@ -5,8 +5,6 @@
 [![](https://activity-graph.herokuapp.com/graph?username=Gustave-241021&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=Gustave-241021&show_icons=true&theme=vue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustave-241021&langs_count=6)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustave-241021&layout=compact&langs_count=6)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
