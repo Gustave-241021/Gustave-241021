@@ -1,5 +1,6 @@
 <!-- 动态彩虹头部 - Charm Style -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B9D,25:C44569,50:8E44AD,75:3867D6,100:4ECDC4&height=200&section=header&text=Hi%20I'm%20Gustave%20💫&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Crafting%20glamorous%20code%20✨&descAlignY=52&descAlign=50&descSize=18"/>
+
 ## 📌 Open Source Contributions
 
 <p align="center">
